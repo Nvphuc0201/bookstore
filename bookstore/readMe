@@ -1,0 +1,1 @@
+bạn chưa thiết kế giao diện cho các file trong folder admin/ như sanpham_them.php, sanpham_sua.php, thiết kế lại giao diện các folder trong admin/ có đuôi file là _them.php và _sua.php và gán tác giả trong sanpham.php
